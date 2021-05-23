@@ -29,8 +29,8 @@ CREATE TABLE public.activation_codes
 CREATE TABLE public.candidates
 (
     id integer NOT NULL,
-    "firstName" character varying(20) NOT NULL,
-    "lastName" character varying(20) NOT NULL,
+    first_name character varying(20) NOT NULL,
+    last_name character varying(20) NOT NULL,
     identity_number character varying(11) NOT NULL,
     birthdate date NOT NULL,
     PRIMARY KEY (id)
