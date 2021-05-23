@@ -1,4 +1,5 @@
 # HRMS (Human Resource Management System)
 * * *
 ### ER Diagram with PostgreSQL
-![hrms erd](https://user-images.githubusercontent.com/61651202/117949608-f96b1c00-b31a-11eb-86f2-3dc9c893792d.png)
+![hrms](https://user-images.githubusercontent.com/61651202/119271316-bdcd2d80-bc09-11eb-8501-390b7c3ed8de.png)
+
